@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Scanner;
 
-public class sum {
+public class Sum {
     static void main(String[] ignoredArgs) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Array Size: ");
