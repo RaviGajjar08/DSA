@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class sum {
     static void main(String[] ignoredArgs) {
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Enter the Array Size: ");
         int n = sc.nextInt();
         int[] arr = new int[n];
