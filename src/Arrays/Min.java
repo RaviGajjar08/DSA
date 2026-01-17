@@ -1,7 +1,7 @@
 package Arrays;
 
 public class Min {
-    public static  void main(String[] args) {
+    static  void main(String[] ignoredArgs) {
         java.util.Scanner sc = new java.util.Scanner(System.in);
 
         System.out.print("Enter the Array Size: ");
