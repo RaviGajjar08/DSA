@@ -1,7 +1,7 @@
 package Arrays;
 
 public class Second_Largest {
-    public static void  main(String[] args) {
+     static void  main(String[] ignoredArgs) {
         int[] arr = {12, 35, 1, 10, 34, 1};
         int firstLargest = Integer.MIN_VALUE;
         int secondLargest = Integer.MIN_VALUE;
